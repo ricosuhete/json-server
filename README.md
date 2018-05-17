@@ -282,6 +282,11 @@ $ json-server http://example.com/file.json
 $ json-server http://jsonplaceholder.typicode.com/db
 ```
 
+### Generate random data automatic
+
+Visit this website for generate data fake
+[NEXT JSON GENERATOR](http://next.json-generator.com)
+
 ### Generate random data
 
 Using JS instead of a JSON file, you can create data programmatically.
